@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cpu-sd.github.io</id>
+    <title>山与海</title>
+    <updated>2023-03-05T03:10:40.534Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cpu-sd.github.io"/>
+    <link rel="self" href="https://cpu-sd.github.io/atom.xml"/>
+    <subtitle>希望常在 静待花开</subtitle>
+    <logo>https://cpu-sd.github.io/images/avatar.png</logo>
+    <icon>https://cpu-sd.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 山与海</rights>
+    <entry>
+        <title type="html"><![CDATA[你好呀]]></title>
+        <id>https://cpu-sd.github.io/post/20230305/</id>
+        <link href="https://cpu-sd.github.io/post/20230305/">
+        </link>
+        <updated>2023-03-05T02:36:23.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎来到我的世界</p>
+]]></content>
+    </entry>
+</feed>
